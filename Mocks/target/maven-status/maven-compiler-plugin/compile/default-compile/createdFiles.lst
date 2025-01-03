@@ -1,0 +1,4 @@
+put\io\testing\mocks\ExpenseRepository.class
+put\io\testing\mocks\ExpenseManager.class
+put\io\testing\mocks\Expense.class
+put\io\testing\mocks\IExpenseRepository.class
