@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: put.io.testing.mocks.ExpenseRepositoryTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.032 s -- in put.io.testing.mocks.ExpenseRepositoryTest
